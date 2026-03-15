@@ -46,6 +46,38 @@ The application allows users to upload Excel or CSV files and instantly generate
 ---
 
 File Link- https://drive.google.com/file/d/1EJ95eaTveT4ULOiO_0ce1J5xBozNL1n9/view?usp=sharing
+⚠️ Windows Security Warning (SmartScreen)
+
+When you run the .exe file, Windows may show a message like:
+
+“Windows protected your PC – Microsoft Defender SmartScreen prevented an unrecognized app from starting.”
+
+This happens because the application is new and not yet recognized by Microsoft’s reputation system, not because it is malicious. New or uncommon apps often trigger this warning until they build trust with downloads.
+
+✅ How to Run the Application
+
+1️⃣ Download the ZIP file from the repository
+2️⃣ Extract / Unzip the folder
+3️⃣ Open the extracted folder
+4️⃣ Double-click the .exe file
+
+If Windows shows the warning:
+
+Click More info
+
+Click Run anyway
+
+This will allow the application to start normally.
+
+📌 Why this happens
+
+The application is new or not widely downloaded yet
+
+The .exe file is not digitally signed
+
+Microsoft SmartScreen has not built reputation for the app yet
+
+Once more users download and run it, the warning usually disappears.
 
 ## 📂 Project Setup
 
